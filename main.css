@@ -55,13 +55,14 @@ h2 {
 
 h3 {
 	padding: .5em;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 header {
 	padding: .5em;
+	width: 30%;
+	text-align: center;
 }
-
 
 p {
 	font-size: 17px;
@@ -79,11 +80,6 @@ p {
 	width: 30%;
 }
 
-
 #influence  p {
 	line-height: 130%;
-}
-/*
-#how-does-it-work p {
-	text-indent: 12px;
 }
